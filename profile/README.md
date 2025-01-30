@@ -8,4 +8,9 @@ Our aim is to build better iOS & macOS text views that overcome the limitations 
 
 Our current focus is building a better markdown preview for UIKit and AppKit with customizable text selection behavior and horizontally scrollable text fragments for non-wrappable markdown blocks (notably for displaying tables but also for fenced code blocks when such is preferred).
 
-Contact us for licensing options or if you need custom solutions to your unique text related problems.
+# Links
+
+## Author’s Developer Blogs 
+
+- [Medium]( https://medium.com/@colbyn )
+- [SubStack]( https://substack.com/@colbynwadman )
